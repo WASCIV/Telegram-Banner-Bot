@@ -66,9 +66,8 @@ For example:
 	
 ##	Screenshot 👇👇
 	
-	![Screenshot 1](screenshot/screenshot.jpg)
-	
-    /start: Displays nothing
+![Screenshot 1](screenshot/screenshot.jpg)
+/start: Displays nothing
 
 ## Contributing
 
