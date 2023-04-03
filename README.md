@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ```python
 python Banner_bot.py
-```python
+```
 
 3. Add your bot to a Telegram group or start a chat with it.
 
