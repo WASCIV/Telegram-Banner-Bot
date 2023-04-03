@@ -2,6 +2,9 @@
 
 This Telegram Banner Bot is a simple, yet powerful tool that allows you to generate and display custom banners within your Telegram chats. This repository contains a Python script to help you get started quickly and easily.
 
+[![GitHub license](https://img.shields.io/badge/LICENSE-MIT-orange)](https://github.com/WASCIV/Telegram-Banner-Bot/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/badge/StarME-Star-blue)](https://github.com/WASCIV/Telegram-Banner-Bot/stargazers)
+
 ## Table of Contents
 
 1. [Creating a Telegram Bot](#creating-a-telegram-bot)
