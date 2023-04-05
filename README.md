@@ -60,18 +60,18 @@ python Banner_bot.py
 
 For example:
 
-    /addbuttons Hello, World!: Generates a banner with the text "Hello, World!".
-	
-	Usage: /addbuttons <text1> <URL1> <text2> <URL2> 
-	
-	Just Forward a message Ensure that it looks like this 
+    Usage: First send the post that you want to add banners to
+
+## Video Tutorial
+
+https://youtu.be/1abmUunvV-o	
 	
 	
 ##	Screenshot 👇👇
 	
 ![Screenshot 1](screenshot/screenshot.jpg)
 
-/start: Displays nothing
+/start: Displays message 
 
 ## Contributing
 
